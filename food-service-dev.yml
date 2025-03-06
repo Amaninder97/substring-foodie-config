@@ -1,0 +1,8 @@
+server:
+  port: 9092
+
+info:
+  app:
+    name: "Food-Service"
+    description: "This is Food Service App for Dev Environment."
+    version: "1.0V- Under Development"
